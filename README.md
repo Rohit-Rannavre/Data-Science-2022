@@ -1,4 +1,4 @@
-# :star: Data Science Projects
+# :star: Data Science Projects (2022)
 This repository contains some data science projects
 
 ## ▶️ Gold price prediction
