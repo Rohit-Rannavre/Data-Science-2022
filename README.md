@@ -3,14 +3,20 @@
 
 This repository contains the projects I did for practical purposes.
 
-## :zap: Fashion MNIST Image Classification Using CNN
+<br>
+
+### :zap: Fashion MNIST Image Classification Using CNN
 - [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/CNN_Fashion_MNIST.ipynb)
 
-## :zap: Gold Price Prediction
+***
+
+### :zap: Gold Price Prediction
 - [Dataset](https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data)
 - [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/gold_price_prediction.ipynb)
 
-## :zap: Heart Disease Prediction
+***
+
+### :zap: Heart Disease Prediction
 - [Dataset](https://drive.google.com/file/d/1CEql-OEexf9p02M5vCC1RDLXibHYE9Xz/view)
 - [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/heart_disease_prediction.ipynb)
 
