@@ -1,8 +1,6 @@
 # :star: Data Science Projects [2022]
 ![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Numpy%20|%20Matplotlib%20|%20seaborn%20|%20sklearn|%20Keras-990098?style=for-the-badge)
 
-This repository contains the projects I did for practical purposes.
-
 <br>
 
 ### :zap: Fashion MNIST Image Classification Using CNN
