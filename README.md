@@ -3,8 +3,8 @@
 
 <br>
 
-### :zap: Fashion MNIST Image Classification Using CNN
-- [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/CNN_Fashion_MNIST.ipynb)
+### :zap: Clustering on the Iris Dataset
+- [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/kmeans_on_iris.ipynb)
 
 ***
 
@@ -17,6 +17,11 @@
 ### :zap: Heart Disease Prediction
 - [Dataset](https://drive.google.com/file/d/1CEql-OEexf9p02M5vCC1RDLXibHYE9Xz/view)
 - [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/heart_disease_prediction.ipynb)
+
+***
+
+### :zap: Fashion MNIST Image Classification Using CNN
+- [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/CNN_Fashion_MNIST.ipynb)
 
 <br>
 
