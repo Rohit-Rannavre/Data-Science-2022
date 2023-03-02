@@ -24,6 +24,13 @@ This repository contains the projects that I have done as a beginner for practic
 
 ***
 
+### :zap: Kidney Disease Prediction
+> [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/kidney_dataset.csv)
+
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/kidney_disease_prediction.ipynb)
+
+***
+
 ### :zap: Anemia Prediction
 > [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/anemia_dataset.csv)
 
