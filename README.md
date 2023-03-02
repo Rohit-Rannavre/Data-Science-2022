@@ -1,27 +1,31 @@
-# :star: Data Science Projects [2022]
-![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Numpy%20|%20Matplotlib%20|%20seaborn%20|%20sklearn|%20Keras-990098?style=for-the-badge)
+# :star: Data Science Projects
+![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Numpy%20|%20Matplotlib%20|%20seaborn%20|%20sklearn|%20Keras-990058?style=for-the-badge)
+
+This repository contains the projects that I have done for practical purposes.
 
 <br>
 
 ### :zap: Clustering on the Iris Dataset
-- [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/kmeans_on_iris.ipynb)
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/kmeans_on_iris.ipynb)
 
 ***
 
 ### :zap: Gold Price Prediction
-- [Dataset](https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data)
-- [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/gold_price_prediction.ipynb)
+> [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/gold_price_data.csv)
+
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/gold_price_prediction.ipynb)
 
 ***
 
 ### :zap: Heart Disease Prediction
-- [Dataset](https://drive.google.com/file/d/1CEql-OEexf9p02M5vCC1RDLXibHYE9Xz/view)
-- [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/heart_disease_prediction.ipynb)
+> [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/heart_disease_data.csv)
+
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/heart_disease_prediction.ipynb)
 
 ***
 
 ### :zap: Fashion MNIST Image Classification Using CNN
-- [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/CNN_Fashion_MNIST.ipynb)
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/CNN_Fashion_MNIST.ipynb)
 
 <br>
 
