@@ -38,13 +38,6 @@ This repository contains the projects that I have done as a beginner for practic
 
 ***
 
-### :zap: Anemia Prediction
-> [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/anemia_dataset.csv)
-
-> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/anemia_prediction.ipynb)
-
-***
-
 ### :zap: Brain Tumor Prediction
 > [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/brain_tumor_dataset.csv)
 
