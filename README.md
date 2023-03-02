@@ -1,7 +1,7 @@
 # :star: Data Science Projects
-![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Numpy%20|%20Matplotlib%20|%20seaborn%20|%20sklearn|%20Keras-990058?style=for-the-badge)
+![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Numpy%20|%20Matplotlib%20|%20seaborn%20|%20sklearn|%20Keras-990088?style=for-the-badge)
 
-This repository contains the projects that I have done for practical purposes.
+This repository contains the projects that I have done as a beginner for practical purposes.
 
 <br>
 
