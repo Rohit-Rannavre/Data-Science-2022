@@ -11,7 +11,7 @@ This repository contains the projects that I have done as a beginner for practic
 ***
 
 ### :zap: Titanic Survival Prediction
-> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/titanic_survival_prediction.ipynb)
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/titanic_survival_prediction_with_lightgbm.ipynb)
 
 ***
 
