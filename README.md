@@ -60,7 +60,7 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 ### :zap: Credit Card Customer Churn Prediction with ANN
 > [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/credit_card_customer_churn_dataset.csv)
 
-> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/credit_card_customer_churn_prediction.ipynb)
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/credit_card_customer_churn_prediction_with_ANN.ipynb)
 
 ***
 
