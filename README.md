@@ -1,7 +1,7 @@
 # :star: Data Science Projects
-![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Numpy%20|%20Matplotlib%20|%20seaborn%20|%20sklearn|%20Keras-990088?style=for-the-badge)
+![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Numpy%20|%20Matplotlib%20|%20Seaborn%20|%20Sklearn|%20Tensorflow%20|%20Keras-990088?style=for-the-badge)
 
-This repository contains the projects that I have done as a beginner for practical purposes.
+This repository contains some ML/DL projects that I have done as a beginner for practical purposes.
 
 <br>
 
@@ -50,7 +50,21 @@ This repository contains the projects that I have done as a beginner for practic
 
 ***
 
-### :zap: Fashion MNIST Image Classification Using CNN
+### :zap: Graduate Admission Prediction with ANN
+> [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/graduate_admission_dataset.csv)
+
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/graduate_admission_prediction.ipynb)
+
+***
+
+### :zap: Credit Card Customer Churn Prediction with ANN
+> [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/credit_card_customer_churn_dataset.csv)
+
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/credit_card_customer_churn_prediction.ipynb)
+
+***
+
+### :zap: Fashion MNIST Image Classification with CNN
 > [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/CNN_Fashion_MNIST.ipynb)
 
 <br>
