@@ -71,6 +71,11 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 
 ***
 
+### :zap: Fashion MNIST Image Classification with ANN
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/fashion_mnist_image_classification_with_ANN.ipynb)
+
+***
+
 ### :zap: Fashion MNIST Image Classification with CNN
 > [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/CNN_Fashion_MNIST.ipynb)
 
