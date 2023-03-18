@@ -50,6 +50,11 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 
 ***
 
+### :zap: Iris Classification with ANN
+> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/iris_classification_with_ANN.ipynb)
+
+***
+
 ### :zap: Diabetes Prediction with ANN
 > [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/diabetes_dataset.csv)
 
