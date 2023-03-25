@@ -48,54 +48,6 @@ This repository contains some ML/DL projects that I have done as a beginner for 
 
 > [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/brain_tumor_prediction.ipynb)
 
-***
-
-### :zap: Iris Classification with ANN
-> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/iris_classification_with_ANN.ipynb)
-
-***
-
-### :zap: Diabetes Prediction with ANN
-> [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/diabetes_dataset.csv)
-
-> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/diabetes_prediction_with_ANN_2.ipynb)
-
-***
-
-### :zap: Graduate Admission Prediction with ANN
-> [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/graduate_admission_dataset.csv)
-
-> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/graduate_admission_prediction.ipynb)
-
-***
-
-### :zap: Credit Card Customer Churn Prediction with ANN
-> [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/credit_card_customer_churn_dataset.csv)
-
-> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/credit_card_customer_churn_prediction_with_ANN.ipynb)
-
-***
-
-### :zap: Fashion MNIST Image Classification with ANN
-> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/fashion_mnist_image_classification_with_ANN.ipynb)
-
-***
-
-### :zap: Fashion MNIST Image Classification with CNN
-> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/CNN_Fashion_MNIST.ipynb)
-
-***
-
-### :zap: Flower Classification with VGG16
-> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/flower_classification_with_VGG16_(feature_extraction).ipynb)
-
-***
-
-### :zap: Satellite Image Classification with CNN
-> [Dataset](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/satellite-image-classification-dataset.zip)
-
-> [Python Code](https://github.com/Rohit-Rannavre/Data-Science-2022/blob/main/Beginner%20Data%20Science%20Projects/satellite_image_classification_with_CNN.ipynb)
-
 <br>
 
 ### ***Let's connect:*** 
