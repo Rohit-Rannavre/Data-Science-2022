@@ -1,7 +1,7 @@
 # :star: Data Science Projects
 ![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Numpy%20|%20Matplotlib%20|%20Seaborn%20|%20Sklearn|%20Tensorflow%20|%20Keras-990088?style=for-the-badge)
 
-This repository contains some ML/DL projects that I have done as a beginner for practical purposes.
+This repository contains some ML/DL projects that I have done as a beginner for practical purposes. 	  
 
 <br>
 
