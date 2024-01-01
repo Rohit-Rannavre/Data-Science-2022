@@ -1,4 +1,4 @@
-# :star: Data Science Projects
+# :star: Data Science Projects [2022]
 ![](https://img.shields.io/badge/Tools-Python%20|%20Pandas%20|%20Numpy%20|%20Matplotlib%20|%20Seaborn%20|%20xgboost%20|%20lightgbm%20|%20Catboost%20|%20Sklearn|%20Yellowbrick%20-990088?style=for-the-badge)
 
 This repository contains some ML/DL projects that I have done as a beginner for practical purposes. 	  
